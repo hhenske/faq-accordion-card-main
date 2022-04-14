@@ -147,6 +147,7 @@ h1, h2 {
 accordian-collapse.open {
     display: block;
 }
+    
 
 @media (min-width: 56em) {
     .body {
